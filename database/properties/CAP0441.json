@@ -1,0 +1,21 @@
+{
+  "created": "2021-01-01",
+  "realStatePhone": "41 99999-1598",
+  "realStateEmail": "email@emob.x",
+  "buildYear": 2016,
+  "propertyRefence": "CAP0441",
+  "propertyType": "HOUSE",
+  "propertyForSale": false,
+  "propertyForRent": true,
+  "propertySalesPrice": 0,
+  "propertyRentPrice": 2000,
+  "addressStreet": "Rua Chiclete",
+  "addressNumber": 99,
+  "addressComplement": "Casa 10",
+  "addressDistrict": "Limão",
+  "addressCity": "Limoeiro do Norte",
+  "addressState": "CE",
+  "addressCountry": "Brasil",
+  "addressZipCode": "81560-140",
+  "publishFor": ["estatify", "rentify"]
+}

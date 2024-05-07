@@ -1,0 +1,21 @@
+{
+  "created": "2021-01-01",
+  "realStatePhone": "11 99999-9999",
+  "realStateEmail": "email@realstate.com",
+  "buildYear": 2020,
+  "propertyRefence": "ABC00011",
+  "propertyType": "PENTHOUSE",
+  "propertyForSale": true,
+  "propertyForRent": false,
+  "propertySalesPrice": 1000000,
+  "propertyRentPrice": 0,
+  "addressStreet": "Rua do Imóvel",
+  "addressNumber": 9,
+  "addressComplement": "Bloco 99, casa 9909",
+  "addressDistrict": "Orribar",
+  "addressCity": "Customicity",
+  "addressState": "XY",
+  "addressCountry": "Brasil",
+  "addressZipCode": "00000-000",
+  "publishFor": ["estatify", "rentify"]
+}

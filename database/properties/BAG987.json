@@ -1,0 +1,21 @@
+{
+  "created": "2022-01-01",
+  "realStatePhone": "11 78987-9999",
+  "realStateEmail": "email@bragi.com",
+  "buildYear": 2010,
+  "propertyRefence": "BAG987",
+  "propertyType": "STORE",
+  "propertyForSale": true,
+  "propertyForRent": true,
+  "propertySalesPrice": 1000000,
+  "propertyRentPrice": 10000,
+  "addressStreet": "Avenida Brasil",
+  "addressNumber": 150,
+  "addressComplement": "",
+  "addressDistrict": "Torresmo",
+  "addressCity": "Bagua",
+  "addressState": "MA",
+  "addressCountry": "Brasil",
+  "addressZipCode": "00000-000",
+  "publishFor": ["estatify"]
+}
